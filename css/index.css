@@ -1,0 +1,55 @@
+.banner{
+    width: 100%;
+    height: 650px;
+    background: url(../img/OIP.jpg);
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position: center;
+}
+.margin{
+    margin-bottom: 10px;
+}
+.padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.baphomet{
+    width: 75%;
+}
+.baphomet img{
+    width: 100%;
+}
+.genio{
+    width: 70%;
+}
+.genio img{
+    width: 100%;
+}
+.obus{
+    width: 73%;
+}
+.obus img{
+    width: 100%;
+}
+.link-cofig a {
+    font-weight: bold;
+    background-color: rgb(9, 165, 126);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+.link-cofig a:hover {
+    color: white;
+    background-color: darkcyan;
+}
+.esp-botton{
+    margin-bottom: 15px;
+}
+@media screen and (min-width: 1125px;) {
+    body {
+        background-color: lightgreen;
+    }
+    .espacamento{
+        margin-bottom: 10px;
+    }
+}
